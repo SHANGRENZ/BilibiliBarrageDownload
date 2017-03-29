@@ -1,0 +1,16 @@
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Debug\BilibiliBarrageDownload.exe.config
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Debug\BilibiliBarrageDownload.exe
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Debug\BilibiliBarrageDownload.pdb
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.Form1.resources
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.Properties.Resources.resources
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.csproj.GenerateResource.Cache
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.exe
+c:\users\zhoushangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.pdb
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.MessageBoxFrm.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Debug\BilibiliBarrageDownload.exe.manifest
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Debug\BilibiliBarrageDownload.application
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.exe.manifest
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.application
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.Setting.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.About.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.csprojResolveAssemblyReference.cache
