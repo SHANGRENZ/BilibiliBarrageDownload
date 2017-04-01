@@ -12,5 +12,4 @@ C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownl
 C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.exe.manifest
 C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.application
 C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.Setting.resources
-C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.About.resources
-C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.csprojResolveAssemblyReference.cache
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Debug\BilibiliBarrageDownload.Update.resources

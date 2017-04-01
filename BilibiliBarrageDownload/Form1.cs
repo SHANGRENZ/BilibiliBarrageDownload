@@ -16,7 +16,14 @@ namespace BilibiliBarrageDownload
 {
     public partial class Form1 : Form
     {
+        //****版本号****
+        public static double version = 1.0;
+        //****版本号****
         private MessageBoxFrm msg;
+        public static string MsgTitle;
+        public static string MsgContent;
+        public static bool MsgButton;
+        public static bool MsgTop;
 
         public Form1()
         {
@@ -25,7 +32,7 @@ namespace BilibiliBarrageDownload
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Alert("获取中...","提示");
+            Alert("获取中...","提示",false,false);
             GetBarrage();
         }
 
@@ -37,11 +44,11 @@ namespace BilibiliBarrageDownload
             file_id = ReplaceText(file_id, "\\d.*\\d");
             if (file_id == "")
             {
-                Alert("网络或AV号错误", "无法获取");
+                Alert("网络或AV号错误", "无法获取",true,false);
                 return false;
             }
             System.IO.File.WriteAllText(Properties.Settings.Default.DownloadPath + "\\"+av_id+".xml",GetXMLSource("http://comment.bilibili.tv/"+file_id+".xml"));
-            Alert("下载完成","提示");
+            Alert("下载完成","提示",true,false);
             return true;
         }
 
@@ -104,8 +111,12 @@ namespace BilibiliBarrageDownload
             return strHTML;
         }
 
-        private bool Alert(string content,string title)
+        private bool Alert(string content,string title,bool button,bool top)
         {
+            MsgTitle = title;
+            MsgContent = content;
+            MsgButton = button;
+            MsgTop = top;
             if (msg == null)
             {
                 msg = new MessageBoxFrm();
@@ -113,17 +124,13 @@ namespace BilibiliBarrageDownload
             }
             else
             {
-                if (msg.IsDisposed)
+                if (!msg.IsDisposed)
                 {
-                    msg = new MessageBoxFrm();
-                    msg.Show();
+                    msg.Close();
                 }
-                else
-                {
-                    msg.Activate();
-                }
+                msg = new MessageBoxFrm();
+                msg.Show();
             }
-            msg.Text = title+" | "+content;
             return true;
         }
 
@@ -144,11 +151,18 @@ namespace BilibiliBarrageDownload
                 Setting setting = new Setting();
                 setting.Show();
                 setting.TopMost = true;
-                MessageBoxFrm msg = new MessageBoxFrm();
-                msg.Show();
-                msg.TopMost = true;
-                msg.Text = "首次运行 | 请设置您的弹幕储存路径";
+                //MessageBoxFrm msg = new MessageBoxFrm();
+                //msg.Show();
+                //msg.TopMost = true;
+                //msg.Text = "首次运行 | 请设置您的弹幕储存路径";
+                Alert("请设置您的弹幕储存路径","首次运行",true,true);
                 Properties.Settings.Default.FirstRun = false;
+            }
+
+            if (File.Exists(this.GetType().Assembly.Location + ".cmd"))
+            {
+                System.IO.File.Delete(this.GetType().Assembly.Location + ".cmd");
+                Alert("弹幕下载助手已经成功更新至"+version.ToString(),"升级成功",true,true);
             }
         }
 
@@ -163,12 +177,6 @@ namespace BilibiliBarrageDownload
         {
             Setting setting = new Setting();
             setting.Show();
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-            About about = new About();
-            about.Show();
         }
 
         private void label4_Click(object sender, EventArgs e)

@@ -28,6 +28,7 @@ namespace BilibiliBarrageDownload
             {
                 textBox1.Text = Properties.Settings.Default.DownloadPath;
             }
+            label4.Text = Form1.version.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -56,6 +57,12 @@ namespace BilibiliBarrageDownload
             {
                 textBox1.Text = folderBrowserDialog1.SelectedPath;
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Update update = new Update();
+            update.Show();
         }
     }
 }

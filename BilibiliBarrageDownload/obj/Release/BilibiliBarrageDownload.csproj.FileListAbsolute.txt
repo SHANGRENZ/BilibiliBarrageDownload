@@ -1,0 +1,15 @@
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Release\BilibiliBarrageDownload.exe.config
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Release\BilibiliBarrageDownload.exe.manifest
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Release\BilibiliBarrageDownload.application
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Release\BilibiliBarrageDownload.exe
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\bin\Release\BilibiliBarrageDownload.pdb
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.Form1.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.MessageBoxFrm.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.Properties.Resources.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.Setting.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.Update.resources
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.csproj.GenerateResource.Cache
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.exe.manifest
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.application
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.exe
+C:\Users\ZhouShangren\documents\visual studio 2017\Projects\BilibiliBarrageDownload\BilibiliBarrageDownload\obj\Release\BilibiliBarrageDownload.pdb

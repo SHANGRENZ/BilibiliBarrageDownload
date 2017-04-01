@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BilibiliBarrageDownload.exe" size="18952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BilibiliBarrageDownload.exe" size="21512">
       <assemblyIdentity name="BilibiliBarrageDownload" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h+uozCNv8WcRkCa1eAb2ekuplCaKz1f4kxn4ftsSD/o=</dsig:DigestValue>
+        <dsig:DigestValue>Lk1eUDai3f/e69i9KWNycktsdg8eXkg7E/6W4ztossM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
